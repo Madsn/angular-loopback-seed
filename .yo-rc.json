@@ -31,9 +31,8 @@
         "version": "~2.1.1"
       },
       "resource": {
-        "name": "restangular",
-        "version": "~1.4.0",
-        "module": "restangular"
+        "name": "angular-resource",
+        "module": "ngResource"
       },
       "router": {
         "name": "angular-ui-router",
